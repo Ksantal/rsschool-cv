@@ -29,7 +29,7 @@ function createPhoneNumber(numbers){
 ```
 
 ### Work experience:
-_Nothing yet…_
+Curriculum vitae [https://github.com/Ksantal/rsschool-cv/tree/gh-pages]
 
 ### Education and courses:
 * **Courses:**
