@@ -18,6 +18,15 @@ I'm interested in learning something new. I am fond of studying and programming 
  * SolidWorks
 
 ### Code example:
+```
+function createPhoneNumber(numbers){
+  let phone = "(xxx) xxx-xxxx";
+  for(let i = 0; i < numbers.length; i++){
+    phone = phone.replace('x', numbers[i]);
+  }
+  return phone;
+}
+```
 
 ### Work experience:
 _Nothing yet…_
